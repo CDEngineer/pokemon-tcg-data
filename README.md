@@ -1,3 +1,24 @@
+# About this fork
+
+This fork continues the community card data after [PokemonTCG/pokemon-tcg-data](https://github.com/PokemonTCG/pokemon-tcg-data) stopped adding sets. It keeps the same files and JSON format, so tools that read the original data can read this one.
+
+**Added here:**
+
+- Delta Reign (`me6`, DLR), all 141 cards.
+- The Standard legality fix for Ascended Heroes and Perfect Order (upstream pull request #623, not merged there).
+
+**Removed here:** the legacy v1 format. The `v2_to_v1.rb` conversion script no longer runs on current Ruby, and this fork doesn't have the resources to maintain it, so it was removed. The "Version 1 and Version 2 Data" section of the original README below no longer applies; the original repository still has the script.
+
+**How cards are checked:** every new card is checked field by field against official English card images: name, stage, HP, attacks, abilities, rules text, weakness, resistance, retreat, illustrator, rarity, regulation mark, and flavor text. Drafts translated from Japanese or taken from previews are only a starting point. New sets follow the conventions of the newest upstream sets, which leave out Trainer reminder lines.
+
+**Contributing:** pull requests are welcome. Please use official English card text only, checked against card images, and keep the existing format.
+
+This fork is not affiliated with Pokémon, Nintendo, Creatures, GAME FREAK, or the original maintainers. Card text and images belong to their owners. Like the original repository, this fork has no license file.
+
+The original README follows.
+
+---
+
 # Pokémon TCG Data
 
 > [!IMPORTANT]
