@@ -47,12 +47,13 @@
     "number": "1",
     "artist": "Satoshi Ito",
     "rarity": "Common",
+    "flavorText": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
     "nationalPokedexNumbers": [
       214
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -79,6 +80,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Search your deck for up to 2 Surskit and put them onto your Bench. Then, shuffle your deck."
       },
       {
@@ -104,12 +106,13 @@
     "number": "2",
     "artist": "Gemi",
     "rarity": "Common",
+    "flavorText": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds.",
     "nationalPokedexNumbers": [
       283
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -163,12 +166,13 @@
     "number": "3",
     "artist": "Kazumasa Yasukuni",
     "rarity": "Common",
+    "flavorText": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.",
     "nationalPokedexNumbers": [
       284
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -213,12 +217,13 @@
     "number": "4",
     "artist": "Minato",
     "rarity": "Common",
+    "flavorText": "It lives in arid locations. Its yellow flowers bloom once a year.",
     "nationalPokedexNumbers": [
       331
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -246,6 +251,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
@@ -272,12 +278,13 @@
     "number": "5",
     "artist": "okayamatakatoshi",
     "rarity": "Rare",
+    "flavorText": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat.",
     "nationalPokedexNumbers": [
       332
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -332,12 +339,13 @@
     "number": "6",
     "artist": "nisimono",
     "rarity": "Common",
+    "flavorText": "The trio is together from birth. It constantly gathers nectar from flowers to please Vespiquen.",
     "nationalPokedexNumbers": [
       415
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -393,12 +401,13 @@
     "number": "7",
     "artist": "Masako Tomii",
     "rarity": "Common",
+    "flavorText": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
     "nationalPokedexNumbers": [
       416
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -442,12 +451,13 @@
     "number": "8",
     "artist": "HYOGONOSUKE",
     "rarity": "Uncommon",
+    "flavorText": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
     "nationalPokedexNumbers": [
       492
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -474,6 +484,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Draw 2 cards."
       },
       {
@@ -501,12 +512,13 @@
     "number": "9",
     "artist": "AKIRA EGAWA",
     "rarity": "Uncommon",
+    "flavorText": "It confounds opponents with its quick movement, darting around them like a whirlwind as it carves them up mercilessly with its sharp horns.",
     "nationalPokedexNumbers": [
       640
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -559,12 +571,13 @@
     "number": "10",
     "artist": "Jerky",
     "rarity": "Common",
+    "flavorText": "Its habitat includes everything from beaches to seabeds. It is happy to eat up even rotten scraps, providing a sort of natural cleaning service.",
     "nationalPokedexNumbers": [
       767
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -631,8 +644,8 @@
       768
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -676,12 +689,13 @@
     "number": "12",
     "artist": "Makura Tami",
     "rarity": "Common",
+    "flavorText": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.",
     "nationalPokedexNumbers": [
       906
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -727,12 +741,13 @@
     "number": "13",
     "artist": "Sanosuke Sakuma",
     "rarity": "Uncommon",
+    "flavorText": "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp.",
     "nationalPokedexNumbers": [
       907
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -787,8 +802,8 @@
       908
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -832,12 +847,13 @@
     "number": "15",
     "artist": "Kanami Ogata",
     "rarity": "Common",
+    "flavorText": "This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking.",
     "nationalPokedexNumbers": [
       928
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -882,12 +898,13 @@
     "number": "16",
     "artist": "Eri Kamei",
     "rarity": "Common",
+    "flavorText": "It basks in the sun to its heart's content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey.",
     "nationalPokedexNumbers": [
       929
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -941,12 +958,13 @@
     "number": "17",
     "artist": "Aliya Chen",
     "rarity": "Uncommon",
+    "flavorText": "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder.",
     "nationalPokedexNumbers": [
       930
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -973,6 +991,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
       },
       {
@@ -1001,12 +1020,13 @@
     "number": "18",
     "artist": "Teeziro",
     "rarity": "Common",
+    "flavorText": "It's very friendly and faithful to people. It will try to repel enemies by barking and biting.",
     "nationalPokedexNumbers": [
       58
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1068,12 +1088,13 @@
     "number": "19",
     "artist": "Felicia Chen",
     "rarity": "Rare",
+    "flavorText": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
     "nationalPokedexNumbers": [
       59
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1100,6 +1121,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
       },
       {
@@ -1127,12 +1149,13 @@
     "number": "20",
     "artist": "GOSSAN",
     "rarity": "Uncommon",
+    "flavorText": "Wavering flames similar to those of the sun appear on the surface of this Pokémon's body.",
     "nationalPokedexNumbers": [
       126
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1188,12 +1211,13 @@
     "number": "21",
     "artist": "Ryuta Fuse",
     "rarity": "Rare",
+    "flavorText": "They dwell in volcanic craters. It's said that only a single pair of Magmortar will inhabit any given volcano.",
     "nationalPokedexNumbers": [
       467
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1251,12 +1275,13 @@
     "number": "22",
     "artist": "Tonji Matsuno",
     "rarity": "Common",
+    "flavorText": "Coal is the source of Torkoal's energy. Large amounts of coal can be found in the mountains where they live.",
     "nationalPokedexNumbers": [
       324
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1320,8 +1345,8 @@
       479
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1365,12 +1390,13 @@
     "number": "24",
     "artist": "Takeshi Nakamura",
     "rarity": "Common",
+    "flavorText": "There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
     "nationalPokedexNumbers": [
       631
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1397,6 +1423,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Each player shuffles their hand into their deck and draws 4 cards."
       },
       {
@@ -1423,12 +1450,13 @@
     "number": "25",
     "artist": "kodama",
     "rarity": "Common",
+    "flavorText": "If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",
     "nationalPokedexNumbers": [
       226
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1486,12 +1514,13 @@
     "number": "26",
     "artist": "Anderson",
     "rarity": "Rare",
+    "flavorText": "In myths, this Pokémon expanded the seas with torrential rains and great tsunamis. It battled ferociously against Groudon.",
     "nationalPokedexNumbers": [
       382
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1536,12 +1565,13 @@
     "number": "27",
     "artist": "Mousho",
     "rarity": "Common",
+    "flavorText": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean's surface.",
     "nationalPokedexNumbers": [
       592
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1596,12 +1626,13 @@
     "number": "28",
     "artist": "Nurikabe",
     "rarity": "Uncommon",
+    "flavorText": "Most of this Pokémon's body composition is identical to sea water. It makes sunken ships its lair.",
     "nationalPokedexNumbers": [
       593
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1665,8 +1696,8 @@
       746
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1693,6 +1724,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
       },
       {
@@ -1721,12 +1753,13 @@
     "number": "30",
     "artist": "kurumitsu",
     "rarity": "Common",
+    "flavorText": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
     "nationalPokedexNumbers": [
       125
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1786,12 +1819,13 @@
     "number": "31",
     "artist": "hncl",
     "rarity": "Uncommon",
+    "flavorText": "This Pokémon presses the tips of its tails onto an opponent and instantly sends over 20,000 volts of high-voltage electricity through them.",
     "nationalPokedexNumbers": [
       466
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1840,15 +1874,18 @@
         "value": "×2"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "32",
     "artist": "hncl",
     "rarity": "Uncommon",
+    "flavorText": "It absorbs negative ions from the atmosphere to spit out 10,000 volts of electricity.",
     "nationalPokedexNumbers": [
       135
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1879,6 +1916,7 @@
           "Lightning"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck."
       },
       {
@@ -1899,6 +1937,8 @@
         "value": "×2"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "33",
     "artist": "aky CG Works",
     "rarity": "Double Rare",
@@ -1906,8 +1946,8 @@
       243
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1952,12 +1992,13 @@
     "number": "34",
     "artist": "Yukiko Baba",
     "rarity": "Common",
+    "flavorText": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
     "nationalPokedexNumbers": [
       479
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2010,12 +2051,13 @@
     "number": "35",
     "artist": "Takumi Wada",
     "rarity": "Uncommon",
+    "flavorText": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
     "nationalPokedexNumbers": [
       642
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2060,12 +2102,13 @@
     "number": "36",
     "artist": "OKUBO",
     "rarity": "Common",
+    "flavorText": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.",
     "nationalPokedexNumbers": [
       871
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2109,12 +2152,13 @@
     "number": "37",
     "artist": "TOMATO MARKET",
     "rarity": "Common",
+    "flavorText": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
     "nationalPokedexNumbers": [
       921
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2159,12 +2203,13 @@
     "number": "38",
     "artist": "Susumu Maeya",
     "rarity": "Common",
+    "flavorText": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.",
     "nationalPokedexNumbers": [
       922
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2217,12 +2262,13 @@
     "number": "39",
     "artist": "kirisAki",
     "rarity": "Uncommon",
+    "flavorText": "Pawmot's fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.",
     "nationalPokedexNumbers": [
       923
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2272,12 +2318,13 @@
     "number": "40",
     "artist": "Yukihiro Tada",
     "rarity": "Common",
+    "flavorText": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they're a popular delicacy.",
     "nationalPokedexNumbers": [
       940
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2338,12 +2385,13 @@
     "number": "41",
     "artist": "OKACHEKE",
     "rarity": "Uncommon",
+    "flavorText": "It uses its throat sac to store electricity generated by its wings. There's hardly any oil in its feathers, so it is a poor swimmer.",
     "nationalPokedexNumbers": [
       941
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2399,12 +2447,13 @@
     "number": "42",
     "artist": "Atsushi Furusawa",
     "rarity": "Uncommon",
+    "flavorText": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.",
     "nationalPokedexNumbers": [
       1008
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2455,12 +2504,13 @@
     "number": "43",
     "artist": "Hachinana",
     "rarity": "Common",
+    "flavorText": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
     "nationalPokedexNumbers": [
       96
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2522,12 +2572,13 @@
     "number": "44",
     "artist": "Yuta Kawazu",
     "rarity": "Common",
+    "flavorText": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
     "nationalPokedexNumbers": [
       97
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2581,12 +2632,13 @@
     "number": "45",
     "artist": "toriyufu",
     "rarity": "Rare",
+    "flavorText": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
     "nationalPokedexNumbers": [
       487
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2639,12 +2691,13 @@
     "number": "46",
     "artist": "Hideki Ishikawa",
     "rarity": "Common",
+    "flavorText": "Ancient people apparently fashioned Golett out of clay to do their labor for them. What powers these Pokémon remains unclear.",
     "nationalPokedexNumbers": [
       622
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2714,8 +2767,8 @@
       623
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2769,12 +2822,13 @@
     "number": "48",
     "artist": "Anesaki Dynamic",
     "rarity": "Uncommon",
+    "flavorText": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.",
     "nationalPokedexNumbers": [
       905
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2801,6 +2855,7 @@
           "Fighting"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
       }
     ],
@@ -2817,12 +2872,13 @@
     "number": "49",
     "artist": "Izucch",
     "rarity": "Common",
+    "flavorText": "No matter how high a place it falls from, this Pokémon can save itself by rolling into a ball and bouncing.",
     "nationalPokedexNumbers": [
       27
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2874,12 +2930,13 @@
     "number": "50",
     "artist": "aoki",
     "rarity": "Common",
+    "flavorText": "The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.",
     "nationalPokedexNumbers": [
       28
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2928,12 +2985,13 @@
     "number": "51",
     "artist": "Kedamahadaitai Yawarakai",
     "rarity": "Common",
+    "flavorText": "It usually lives underground. It searches for food while boring its way through the ground at 50 mph.",
     "nationalPokedexNumbers": [
       95
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2991,12 +3049,13 @@
     "number": "52",
     "artist": "Shin Nagasawa",
     "rarity": "Rare",
+    "flavorText": "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
     "nationalPokedexNumbers": [
       208
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3055,12 +3114,13 @@
     "number": "53",
     "artist": "Nisota Niso",
     "rarity": "Rare",
+    "flavorText": "Groudon is said to have expanded the reach of dry land by evaporating water with raging heat. It battled ferociously against Kyogre.",
     "nationalPokedexNumbers": [
       383
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3114,12 +3174,13 @@
     "number": "54",
     "artist": "Oku",
     "rarity": "Uncommon",
+    "flavorText": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
     "nationalPokedexNumbers": [
       645
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3130,7 +3191,7 @@
   },
   {
     "id": "me6-55",
-    "name": "Nidoran♀",
+    "name": "Nidoran ♀",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
@@ -3146,6 +3207,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
       },
       {
@@ -3171,12 +3233,13 @@
     "number": "55",
     "artist": "tayu",
     "rarity": "Common",
+    "flavorText": "Females are more sensitive to smells than males. While foraging, they'll use their whiskers to check wind direction and stay downwind of predators.",
     "nationalPokedexNumbers": [
       29
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3196,7 +3259,7 @@
     "types": [
       "Darkness"
     ],
-    "evolvesFrom": "Nidoran♀",
+    "evolvesFrom": "Nidoran ♀",
     "attacks": [
       {
         "name": "Tackle",
@@ -3223,12 +3286,13 @@
     "number": "56",
     "artist": "Jiro Sasumo",
     "rarity": "Common",
+    "flavorText": "The horn on its head has atrophied. It's thought that this happens so Nidorina's children won't get poked while their mother is feeding them.",
     "nationalPokedexNumbers": [
       30
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3284,12 +3348,13 @@
     "number": "57",
     "artist": "Aliya Chen",
     "rarity": "Rare",
+    "flavorText": "Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.",
     "nationalPokedexNumbers": [
       31
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3316,6 +3381,7 @@
           "Darkness"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Your opponent's Active Pokémon is now Poisoned."
       },
       {
@@ -3343,12 +3409,13 @@
     "number": "58",
     "artist": "Apios",
     "rarity": "Common",
+    "flavorText": "It spins a web using fine yet durable thread. It then waits patiently for prey to be trapped.",
     "nationalPokedexNumbers": [
       167
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3376,6 +3443,7 @@
           "Darkness"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, place 4 damage counters on that Pokémon instead of 1."
       },
       {
@@ -3403,12 +3471,13 @@
     "number": "59",
     "artist": "UKUMO uiti",
     "rarity": "Common",
+    "flavorText": "It spins string not only from its rear but also from its mouth. It's hard to tell which end is which.",
     "nationalPokedexNumbers": [
       168
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3435,6 +3504,7 @@
           "Darkness"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Reveal the top 5 cards of your opponent's deck. You may choose any number of Basic Pokémon you find there and put those Pokémon onto their Bench. Your opponent shuffles the other cards back into their deck."
       },
       {
@@ -3444,6 +3514,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
+        "damage": "",
         "text": "Place 5 damage counters on 1 of your opponent's Pokémon."
       }
     ],
@@ -3460,12 +3531,13 @@
     "number": "60",
     "artist": "Shinji Kanda",
     "rarity": "Common",
+    "flavorText": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
     "nationalPokedexNumbers": [
       302
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3510,12 +3582,13 @@
     "number": "61",
     "artist": "Julie Hang",
     "rarity": "Common",
+    "flavorText": "They live in massive rivers that course through jungles. Swarms of these Pokémon attack any prey that wanders into their territory.",
     "nationalPokedexNumbers": [
       318
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3561,12 +3634,13 @@
     "number": "62",
     "artist": "Kazumasa Yasukuni",
     "rarity": "Common",
+    "flavorText": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
     "nationalPokedexNumbers": [
       319
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3593,6 +3667,7 @@
           "Darkness"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck."
       },
       {
@@ -3621,12 +3696,13 @@
     "number": "63",
     "artist": "Anesaki Dynamic",
     "rarity": "Uncommon",
+    "flavorText": "It can lull people into a deep sleep and make them dream. It is active on nights with a new moon.",
     "nationalPokedexNumbers": [
       491
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3670,12 +3746,13 @@
     "number": "64",
     "artist": "Hachinana",
     "rarity": "Common",
+    "flavorText": "Purrloin steals from people for fun, but its behavior is so charming that its victims can't help but forgive it.",
     "nationalPokedexNumbers": [
       509
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3731,12 +3808,13 @@
     "number": "65",
     "artist": "Souichirou Gunjima",
     "rarity": "Common",
+    "flavorText": "Liepard appear without warning and disappear just as unexpectedly. Their beautiful physique and fur charm many Trainers.",
     "nationalPokedexNumbers": [
       510
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3790,12 +3868,13 @@
     "number": "66",
     "artist": "HYOGONOSUKE",
     "rarity": "Common",
+    "flavorText": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
     "nationalPokedexNumbers": [
       570
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3860,8 +3939,8 @@
       571
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3905,12 +3984,13 @@
     "number": "68",
     "artist": "kawayoo",
     "rarity": "Common",
+    "flavorText": "It drains foes' will to fight by flashing light at them. It then takes the opportunity to hide itself away.",
     "nationalPokedexNumbers": [
       686
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3977,8 +4057,8 @@
       687
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4005,6 +4085,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
       },
       {
@@ -4030,12 +4111,13 @@
     "number": "70",
     "artist": "kurumitsu",
     "rarity": "Uncommon",
+    "flavorText": "Intense hunger drives it to extremes of violence, and the electricity in its cheek sacs has converted into a Dark-type energy.",
     "nationalPokedexNumbers": [
       877
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4090,12 +4172,13 @@
     "number": "71",
     "artist": "Nisota Niso",
     "rarity": "Uncommon",
+    "flavorText": "Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.",
     "nationalPokedexNumbers": [
       893
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4123,6 +4206,7 @@
           "Water"
         ],
         "convertedEnergyCost": 2,
+        "damage": "",
         "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 40 damage to the new Active Pokémon."
       },
       {
@@ -4145,12 +4229,13 @@
     "number": "72",
     "artist": "AKIRA EGAWA",
     "rarity": "Uncommon",
+    "flavorText": "Druddigon lives in caves, but it never skips sunbathing—it won't be able to move if its body gets too cold.",
     "nationalPokedexNumbers": [
       621
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4189,12 +4274,13 @@
     "number": "73",
     "artist": "June",
     "rarity": "Common",
+    "flavorText": "They communicate with their allies using the sounds their scales make when struck. A group of these Pokémon causes quite a racket.",
     "nationalPokedexNumbers": [
       782
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4235,12 +4321,13 @@
     "number": "74",
     "artist": "Scav",
     "rarity": "Common",
+    "flavorText": "It fires itself up by striking its scales with force as it dances. Its roar is a battle cry.",
     "nationalPokedexNumbers": [
       783
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4289,12 +4376,13 @@
     "number": "75",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
+    "flavorText": "It bashes its scales to test its opponents' mettle. The sound of struck Kommo-o scales frightens weaker foes and sends them running.",
     "nationalPokedexNumbers": [
       784
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4344,12 +4432,13 @@
     "number": "76",
     "artist": "Saboteri",
     "rarity": "Common",
+    "flavorText": "Cyclizar keeps energy stored in the folds of its throat, allowing it to run nonstop over very long distances while carrying someone.",
     "nationalPokedexNumbers": [
       967
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4395,12 +4484,13 @@
     "number": "77",
     "artist": "Uta",
     "rarity": "Common",
+    "flavorText": "They fight each other by locking horns. The herd's protectors take pride in their battle-scarred horns.",
     "nationalPokedexNumbers": [
       128
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4427,6 +4517,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Heal 20 damage from this Pokémon."
       },
       {
@@ -4452,12 +4543,13 @@
     "number": "78",
     "artist": "UKUMO uiti",
     "rarity": "Common",
+    "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
     "nationalPokedexNumbers": [
       133
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4514,12 +4606,13 @@
     "number": "79",
     "artist": "satoma",
     "rarity": "Uncommon",
+    "flavorText": "It carries food rolled up in its tail. It has a habit of sharing food with people lost in the mountains.",
     "nationalPokedexNumbers": [
       225
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4544,6 +4637,7 @@
         "name": "Bouncy-Bounce Charge",
         "cost": [],
         "convertedEnergyCost": 0,
+        "damage": "",
         "text": "Search your deck for an Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
       }
     ],
@@ -4553,15 +4647,18 @@
         "value": "×2"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "80",
     "artist": "TOMATO MARKET",
     "rarity": "Common",
+    "flavorText": "Its tail is packed full of the nutrients it needs to grow.",
     "nationalPokedexNumbers": [
       298
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4588,6 +4685,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Switch this Pokémon with 1 of your Benched Pokémon."
       },
       {
@@ -4620,12 +4718,13 @@
     "number": "81",
     "artist": "Shiburingaru",
     "rarity": "Common",
+    "flavorText": "For some reason, it likes to land on people's heads softly and act like it's a hat.",
     "nationalPokedexNumbers": [
       333
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4685,12 +4784,13 @@
     "number": "82",
     "artist": "Atsushi Furusawa",
     "rarity": "Rare",
+    "flavorText": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
     "nationalPokedexNumbers": [
       334
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4736,12 +4836,13 @@
     "number": "83",
     "artist": "Akira Komayama",
     "rarity": "Common",
+    "flavorText": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
     "nationalPokedexNumbers": [
       352
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4810,8 +4911,8 @@
       384
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4870,12 +4971,13 @@
     "number": "85",
     "artist": "Uta",
     "rarity": "Uncommon",
+    "flavorText": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
     "nationalPokedexNumbers": [
       641
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4925,12 +5027,13 @@
     "number": "86",
     "artist": "takashi shiraishi",
     "rarity": "Common",
+    "flavorText": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
     "nationalPokedexNumbers": [
       661
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4975,15 +5078,18 @@
         "value": "-30"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "87",
     "artist": "Souichirou Gunjima",
     "rarity": "Common",
+    "flavorText": "The hotter the flame sac in its belly, the faster it can fly, but it takes some time to get the fire going.",
     "nationalPokedexNumbers": [
       662
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5039,6 +5145,8 @@
         "value": "-30"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "88",
     "artist": "5ban Graphics",
     "rarity": "Double Rare",
@@ -5046,8 +5154,8 @@
       663
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5070,8 +5178,8 @@
     "artist": "Sanosuke Sakuma",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5085,7 +5193,7 @@
     "name": "Adventure Lantern",
     "supertype": "Trainer",
     "subtypes": [
-      "Pokémon Tool"
+      "Item"
     ],
     "rules": [
       "Search your deck for a Basic Fire Energy card and a Basic Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
@@ -5094,8 +5202,8 @@
     "artist": "inose yukie",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5118,8 +5226,8 @@
     "artist": "Toyste Beach",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5142,8 +5250,8 @@
     "artist": "DOM",
     "rarity": "Common",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5166,8 +5274,8 @@
     "artist": "Souichirou Gunjima",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5184,14 +5292,15 @@
       "Stadium"
     ],
     "rules": [
-      "Evolution Pokémon in play (both yours and your opponent's) have no Abilities."
+      "Evolution Pokémon in play (both yours and your opponent's) have no Abilities.",
+      "You cannot play this card by itself. You must combine 2 different Legendary Pyroduct from your hand to play as 1 Stadium card."
     ],
     "number": "94",
     "artist": "akagi",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5208,14 +5317,15 @@
       "Stadium"
     ],
     "rules": [
-      "Evolution Pokémon in play (both yours and your opponent's) have no Abilities."
+      "Evolution Pokémon in play (both yours and your opponent's) have no Abilities.",
+      "You cannot play this card by itself. You must combine 2 different Legendary Pyroduct from your hand to play as 1 Stadium card."
     ],
     "number": "95",
     "artist": "akagi",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5232,14 +5342,15 @@
       "Stadium"
     ],
     "rules": [
-      "Whenever a Colorless Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card."
+      "Whenever a Colorless Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card.",
+      "You cannot play this card by itself. You must combine 2 different Legendary Summit from your hand to play as 1 Stadium card."
     ],
     "number": "96",
     "artist": "nagimiso",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5256,14 +5367,15 @@
       "Stadium"
     ],
     "rules": [
-      "Whenever a Colorless Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card."
+      "Whenever a Colorless Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card.",
+      "You cannot play this card by itself. You must combine 2 different Legendary Summit from your hand to play as 1 Stadium card."
     ],
     "number": "97",
     "artist": "nagimiso",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5280,14 +5392,15 @@
       "Stadium"
     ],
     "rules": [
-      "Whenever a Pokémon (yours or your opponent's) is healed, double the amount of damage healed."
+      "Whenever a Pokémon (yours or your opponent's) is healed, double the amount of damage healed.",
+      "You cannot play this card by itself. You must combine 2 different Legendary Trench from your hand to play as 1 Stadium card."
     ],
     "number": "98",
     "artist": "danciao",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5304,14 +5417,15 @@
       "Stadium"
     ],
     "rules": [
-      "Whenever a Pokémon (yours or your opponent's) is healed, double the amount of damage healed."
+      "Whenever a Pokémon (yours or your opponent's) is healed, double the amount of damage healed.",
+      "You cannot play this card by itself. You must combine 2 different Legendary Trench from your hand to play as 1 Stadium card."
     ],
     "number": "99",
     "artist": "danciao",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5325,12 +5439,10 @@
     "name": "Mega Rayquaza Cap",
     "supertype": "Trainer",
     "subtypes": [
-      "MEGA",
       "Pokémon Tool"
     ],
     "rules": [
-      "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
-      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)"
     ],
     "attacks": [
       {
@@ -5339,6 +5451,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "For each of your Pokémon that has a Mega Rayquaza Cap attached, search your deck for a Basic Energy card and attach it to that Pokémon. Then, shuffle your deck."
       }
     ],
@@ -5346,8 +5459,8 @@
     "artist": "AYUMI ODASHIMA",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5370,8 +5483,8 @@
     "artist": "AYUMI ODASHIMA",
     "rarity": "Common",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5394,8 +5507,8 @@
     "artist": "Yuu Nishida",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5418,8 +5531,8 @@
     "artist": "GIDORA",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5473,12 +5586,13 @@
     "number": "104",
     "artist": "REND",
     "rarity": "Illustration Rare",
+    "flavorText": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.",
     "nationalPokedexNumbers": [
       284
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5522,12 +5636,13 @@
     "number": "105",
     "artist": "Jiro Sasumo",
     "rarity": "Illustration Rare",
+    "flavorText": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.",
     "nationalPokedexNumbers": [
       906
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5554,6 +5669,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
       },
       {
@@ -5582,12 +5698,13 @@
     "number": "106",
     "artist": "Yoshimoto Yoshimon",
     "rarity": "Illustration Rare",
+    "flavorText": "It's very friendly and faithful to people. It will try to repel enemies by barking and biting.",
     "nationalPokedexNumbers": [
       58
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5643,12 +5760,13 @@
     "number": "107",
     "artist": "Taiga Kasai",
     "rarity": "Illustration Rare",
+    "flavorText": "They dwell in volcanic craters. It's said that only a single pair of Magmortar will inhabit any given volcano.",
     "nationalPokedexNumbers": [
       467
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5708,12 +5826,13 @@
     "number": "108",
     "artist": "Rianti Hidayat",
     "rarity": "Illustration Rare",
+    "flavorText": "This Pokémon presses the tips of its tails onto an opponent and instantly sends over 20,000 volts of high-voltage electricity through them.",
     "nationalPokedexNumbers": [
       466
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5758,12 +5877,13 @@
     "number": "109",
     "artist": "Tetsu Kayama",
     "rarity": "Illustration Rare",
+    "flavorText": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.",
     "nationalPokedexNumbers": [
       871
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5817,12 +5937,13 @@
     "number": "110",
     "artist": "Taira Akitsu",
     "rarity": "Illustration Rare",
+    "flavorText": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.",
     "nationalPokedexNumbers": [
       905
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5881,12 +6002,13 @@
     "number": "111",
     "artist": "Ryota Murayama",
     "rarity": "Illustration Rare",
+    "flavorText": "Groudon is said to have expanded the reach of dry land by evaporating water with raging heat. It battled ferociously against Kyogre.",
     "nationalPokedexNumbers": [
       383
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5940,12 +6062,13 @@
     "number": "112",
     "artist": "GOSSAN",
     "rarity": "Illustration Rare",
+    "flavorText": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
     "nationalPokedexNumbers": [
       570
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5989,12 +6112,13 @@
     "number": "113",
     "artist": "Rond",
     "rarity": "Illustration Rare",
+    "flavorText": "It drains foes' will to fight by flashing light at them. It then takes the opportunity to hide itself away.",
     "nationalPokedexNumbers": [
       686
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6021,6 +6145,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "Heal 20 damage from this Pokémon."
       },
       {
@@ -6046,12 +6171,13 @@
     "number": "114",
     "artist": "Hideki Ishikawa",
     "rarity": "Illustration Rare",
+    "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
     "nationalPokedexNumbers": [
       133
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6076,6 +6202,7 @@
         "name": "Bouncy-Bounce Charge",
         "cost": [],
         "convertedEnergyCost": 0,
+        "damage": "",
         "text": "Search your deck for an Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
       }
     ],
@@ -6085,15 +6212,18 @@
         "value": "×2"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "115",
     "artist": "Narumi Sato",
     "rarity": "Illustration Rare",
+    "flavorText": "Its tail is packed full of the nutrients it needs to grow.",
     "nationalPokedexNumbers": [
       298
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6153,12 +6283,13 @@
     "number": "116",
     "artist": "kodama",
     "rarity": "Illustration Rare",
+    "flavorText": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
     "nationalPokedexNumbers": [
       334
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6204,12 +6335,13 @@
     "number": "117",
     "artist": "Tomokazu Komiya",
     "rarity": "Illustration Rare",
+    "flavorText": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
     "nationalPokedexNumbers": [
       352
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6276,8 +6408,8 @@
       768
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6341,8 +6473,8 @@
       479
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6406,8 +6538,8 @@
       746
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6438,6 +6570,7 @@
           "Lightning"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck."
       },
       {
@@ -6458,6 +6591,8 @@
         "value": "×2"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "121",
     "artist": "aky CG Works",
     "rarity": "Ultra Rare",
@@ -6465,8 +6600,8 @@
       243
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6536,8 +6671,8 @@
       623
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6604,8 +6739,8 @@
       687
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6661,6 +6796,8 @@
         "value": "-30"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "124",
     "artist": "5ban Graphics",
     "rarity": "Ultra Rare",
@@ -6668,8 +6805,8 @@
       663
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6692,8 +6829,8 @@
     "artist": "Sanosuke Sakuma",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6707,7 +6844,7 @@
     "name": "Adventure Lantern",
     "supertype": "Trainer",
     "subtypes": [
-      "Pokémon Tool"
+      "Item"
     ],
     "rules": [
       "Search your deck for a Basic Fire Energy card and a Basic Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
@@ -6716,8 +6853,8 @@
     "artist": "inose yukie",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6740,8 +6877,8 @@
     "artist": "Toyste Beach",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6764,8 +6901,8 @@
     "artist": "DOM",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6788,8 +6925,8 @@
     "artist": "Studio Bora Inc.",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6812,8 +6949,8 @@
     "artist": "Yuu Nishida",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6836,8 +6973,8 @@
     "artist": "GIDORA",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6850,15 +6987,17 @@
     "id": "me6-132",
     "name": "Bubbly Water Energy",
     "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
     "rules": [
-      "As long as this card is attached to a Pokémon, it provides Water Energy.\n \nThe Water Pokémon this card is attached to recovers from all Special Conditions and can't be affected by any Special Conditions."
+      "As long as this card is attached to a Pokémon, it provides Water Energy.\n\nThe Water Pokémon this card is attached to recovers from all Special Conditions and can't be affected by any Special Conditions."
     ],
     "number": "132",
-    "artist": "—",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6871,15 +7010,17 @@
     "id": "me6-133",
     "name": "Growing Grass Energy",
     "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
     "rules": [
-      "As long as this card is attached to a Pokémon, it provides Grass Energy.\n \nThe Grass Pokémon this card is attached to gets +20 HP."
+      "As long as this card is attached to a Pokémon, it provides Grass Energy.\n\nThe Grass Pokémon this card is attached to gets +20 HP."
     ],
     "number": "133",
-    "artist": "—",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6892,15 +7033,17 @@
     "id": "me6-134",
     "name": "Nitro Fire Energy",
     "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
     "rules": [
       "As long as this card is attached to a Pokémon, it provides Fire Energy.\n \nIf this card is discarded by an effect of an attack used by the Fire Pokémon this card is attached to, put this card into your hand after attack damage and effects."
     ],
     "number": "134",
-    "artist": "—",
     "rarity": "Ultra Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6967,8 +7110,8 @@
       768
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6999,6 +7142,7 @@
           "Lightning"
         ],
         "convertedEnergyCost": 1,
+        "damage": "",
         "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck."
       },
       {
@@ -7019,6 +7163,8 @@
         "value": "×2"
       }
     ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
     "number": "136",
     "artist": "Oku",
     "rarity": "Special Illustration Rare",
@@ -7026,8 +7172,8 @@
       243
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7097,8 +7243,8 @@
       623
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7167,8 +7313,8 @@
       384
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7191,8 +7337,8 @@
     "artist": "Shimaris Yukichi",
     "rarity": "Special Illustration Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7215,8 +7361,8 @@
     "artist": "Teeziro",
     "rarity": "Special Illustration Rare",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7285,8 +7431,8 @@
       384
     ],
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
