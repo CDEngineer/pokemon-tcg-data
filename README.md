@@ -1,11 +1,12 @@
 # About this fork
 
-This fork continues the community card data after [PokemonTCG/pokemon-tcg-data](https://github.com/PokemonTCG/pokemon-tcg-data) stopped adding sets. It keeps the same files and JSON format, so tools that read the original data can read this one.
+This fork of [PokemonTCG/pokemon-tcg-data](https://github.com/PokemonTCG/pokemon-tcg-data) started when the original paused after 30th Celebration. The original has since resumed with Delta Reign, so this fork merges its changes and keeps its own corrections on top. It keeps the same files and JSON format, so tools that read the original data can read this one.
 
-**Added here:**
+**Differences from the original:**
 
-- Delta Reign (`me6`, DLR), all 141 cards.
+- Delta Reign (`me6`, DLR): both repositories added the set separately. This fork merged the original's version, adopted its four corrections, and kept its own data wherever the card images support it: flavor text, empty retreat costs, Adventure Lantern as an Item, Mega Rayquaza Cap without a Mega Evolution rule, the Legendary Stadium rule about combining 2 halves, the Special Energy subtype, and Nidoran ♀ spelled like the rest of the archive. The [merge commit](https://github.com/CDEngineer/pokemon-tcg-data/commit/7ff7795) lists each difference.
 - The Standard legality fix for Ascended Heroes and Perfect Order (upstream pull request #623, not merged there).
+- The full comparison is on GitHub: [original...fork](https://github.com/PokemonTCG/pokemon-tcg-data/compare/master...CDEngineer:pokemon-tcg-data:master).
 
 **Removed here:** the legacy v1 format. The `v2_to_v1.rb` conversion script no longer runs on current Ruby, and this fork doesn't have the resources to maintain it, so it was removed. The "Version 1 and Version 2 Data" section of the original README below no longer applies; the original repository still has the script.
 
