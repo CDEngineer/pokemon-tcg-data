@@ -1,12 +1,19 @@
 # About this fork
 
-This fork of [PokemonTCG/pokemon-tcg-data](https://github.com/PokemonTCG/pokemon-tcg-data) started when the original paused after 30th Celebration. The original has since resumed with Delta Reign, so this fork merges its changes and keeps its own corrections on top. It keeps the same files and JSON format, so tools that read the original data can read this one.
+This fork of [PokemonTCG/pokemon-tcg-data](https://github.com/PokemonTCG/pokemon-tcg-data) started when the original paused after 30th Celebration. The original has since resumed with Delta Reign; this fork merges its changes and keeps its own corrections on top, so it has everything the original has plus the fixes below. It keeps the same files and JSON format, so tools that read the original data can read this one.
 
-**Differences from the original:**
+**Corrections in this fork that the original lacks:**
 
-- Delta Reign (`me6`, DLR): both repositories added the set separately. This fork merged the original's version, adopted its four corrections, and kept its own data wherever the card images support it: flavor text, empty retreat costs, Adventure Lantern as an Item, Mega Rayquaza Cap without a Mega Evolution rule, the Legendary Stadium rule about combining 2 halves, the Special Energy subtype, and Nidoran ♀ spelled like the rest of the archive. The [merge commit](https://github.com/CDEngineer/pokemon-tcg-data/commit/7ff7795) lists each difference.
-- The Standard legality fix for Ascended Heroes and Perfect Order (upstream pull request #623, not merged there).
-- The full comparison is on GitHub: [original...fork](https://github.com/PokemonTCG/pokemon-tcg-data/compare/master...CDEngineer:pokemon-tcg-data:master).
+- **Standard legality:** the Standard legality of Ascended Heroes and Perfect Order cards is corrected. The original still has the wrong values (the fix was offered upstream as pull request #623 and not merged).
+- **Delta Reign (`me6`, DLR):** both repositories added the set separately. This fork merged the original's version and adopted the four fields it had right, then checked every remaining difference against the card images. Where the two differ, this fork matches the printed cards:
+  - Adventure Lantern (me6-90, me6-126) is an Item; the original lists it as a Pokémon Tool.
+  - Mega Rayquaza Cap (me6-100) is a plain Pokémon Tool; the original adds a MEGA subtype and the Mega Evolution ex rule, which the card doesn't print.
+  - The six Legendary Stadium halves (me6-94 to me6-99) include their printed rule about combining 2 different halves; the original leaves it out.
+  - The three Special Energy cards (me6-132 to me6-134) have the Special subtype and no illustrator, like Special Energy in earlier sets; the original has no subtype and an illustrator of "—".
+  - Flavor text is included on the 92 cards that print it; the original has none for this set.
+  - Pokémon with free retreat record it explicitly (a retreat cost of 0); the original leaves the field out.
+  - Nidoran ♀ is spelled with a space, like the archive's other 15 Nidoran ♀ cards, so Nidorina's evolution still matches across sets.
+- The Delta Reign [merge commit](https://github.com/CDEngineer/pokemon-tcg-data/commit/7ff7795) shows each difference, and GitHub shows the [full comparison with the original](https://github.com/PokemonTCG/pokemon-tcg-data/compare/master...CDEngineer:pokemon-tcg-data:master).
 
 **Removed here:** the legacy v1 format. The `v2_to_v1.rb` conversion script no longer runs on current Ruby, and this fork doesn't have the resources to maintain it, so it was removed. The "Version 1 and Version 2 Data" section of the original README below no longer applies; the original repository still has the script.
 
