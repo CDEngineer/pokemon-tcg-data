@@ -2722,14 +2722,13 @@
     "total": 15,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "releaseDate": "2023/08/23",
     "updatedAt": "2023/09/15 08:51:00",
     "images": {
-      "symbol": "https://images.pokemontcg.io/mcd23/symbol.png",
-      "logo": "https://images.pokemontcg.io/mcd23/logo.png"
+      "symbol": "https://images.scrydex.com/pokemon/mcd23-symbol/symbol",
+      "logo": "https://images.scrydex.com/pokemon/mcd23-logo/logo"
     }
   },
   {
