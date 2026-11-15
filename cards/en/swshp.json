@@ -19054,7 +19054,7 @@
     "convertedRetreatCost": 1,
     "number": "SWSH299",
     "artist": "N-DESIGN Inc.",
-    "rarity": "Rare Ultra",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       385
     ],
@@ -19065,8 +19065,8 @@
     },
     "regulationMark": "F",
     "images": {
-      "small": "https://images.pokemontcg.io/swshp/SWSH299.png",
-      "large": "https://images.pokemontcg.io/swshp/SWSH299_hires.png"
+      "small": "https://images.scrydex.com/pokemon/swshp-SWSH299/small",
+      "large": "https://images.scrydex.com/pokemon/swshp-SWSH299/large"
     }
   },
   {
