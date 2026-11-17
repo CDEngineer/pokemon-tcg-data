@@ -4090,7 +4090,7 @@
       {
         "name": "Zapping Draw",
         "cost": [
-
+          "Colorless"
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
@@ -4941,7 +4941,7 @@
       {
         "name": "Chiming Commotion",
         "cost": [
-
+          "Colorless"
         ],
         "convertedEnergyCost": 1,
         "damage": "",

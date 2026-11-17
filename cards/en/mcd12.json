@@ -440,14 +440,22 @@
     ],
     "attacks": [
       {
-        "name": "Hone ClawsScratch",
+        "name": "Hone Claws",
         "cost": [
-          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "During your next turn, each of this Pokémon's attacks does 30 more damage (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Scratch",
+        "cost": [
           "Fighting"
         ],
-        "convertedEnergyCost": 2,
+        "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "During your next turn, each of this Pokémon's attacks does 30 more damage (before applying Weakness and Resistance)."
+        "text": ""
       }
     ],
     "weaknesses": [
