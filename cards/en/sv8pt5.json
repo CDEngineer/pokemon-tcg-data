@@ -36,6 +36,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "1",
+    "artist": "Iori Suzuki",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       102
@@ -99,6 +100,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "2",
+    "artist": "Dsuke",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       103
@@ -149,6 +151,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "3",
+    "artist": "Uninori",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       127
@@ -196,6 +199,7 @@
       }
     ],
     "number": "4",
+    "artist": "Yoriyuki Ikegami",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       406
@@ -255,6 +259,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "5",
+    "artist": "Kuroimori",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       470
@@ -323,6 +328,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "6",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       470
@@ -374,6 +380,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "7",
+    "artist": "Kyoko Umemoto",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       546
@@ -430,6 +437,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "8",
+    "artist": "Mizue",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       547
@@ -481,6 +489,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "9",
+    "artist": "Yoriyuki Ikegami",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       840
@@ -538,6 +547,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "10",
+    "artist": "Saboteri",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       1011
@@ -601,6 +611,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "11",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       1019
@@ -664,6 +675,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "12",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       1017
@@ -725,6 +737,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "13",
+    "artist": "Ryota Murayama",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       136
@@ -792,6 +805,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "14",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       136
@@ -854,6 +868,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "15",
+    "artist": "Whisker",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       667
@@ -916,6 +931,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "16",
+    "artist": "Takeshi Nakamura",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       668
@@ -983,6 +999,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "17",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       1017
@@ -1045,6 +1062,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "18",
+    "artist": "Natsumi Yoshida",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       79
@@ -1097,6 +1115,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "19",
+    "artist": "Oswaldo KATO",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       199
@@ -1156,6 +1175,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "20",
+    "artist": "saino misaki",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       118
@@ -1212,6 +1232,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "21",
+    "artist": "Nelnal",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       119
@@ -1273,6 +1294,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "22",
+    "artist": "kirisAki",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       134
@@ -1340,6 +1362,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "23",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       134
@@ -1400,6 +1423,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "24",
+    "artist": "Kuroimori",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       245
@@ -1459,6 +1483,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "25",
+    "artist": "rika",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       471
@@ -1526,6 +1551,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "26",
+    "artist": "aky CG Works",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       471
@@ -1591,6 +1617,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "27",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       1017
@@ -1659,6 +1686,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "28",
+    "artist": "N-DESIGN Inc.",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       25
@@ -1715,6 +1743,7 @@
       }
     ],
     "number": "29",
+    "artist": "sui",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       135
@@ -1777,6 +1806,7 @@
       }
     ],
     "number": "30",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       135
@@ -1847,6 +1877,7 @@
     ],
     "convertedRetreatCost": 4,
     "number": "31",
+    "artist": "PLANETA Mochizuki",
     "rarity": "Double Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -1908,6 +1939,7 @@
     ],
     "convertedRetreatCost": 4,
     "number": "32",
+    "artist": "PLANETA Mochizuki",
     "rarity": "Double Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -1970,6 +2002,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "33",
+    "artist": "Kariya",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       196
@@ -2043,6 +2076,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "34",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       196
@@ -2110,6 +2144,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "35",
+    "artist": "IKEDA Saki",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       355
@@ -2177,6 +2212,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "36",
+    "artist": "Aya Kusube",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       356
@@ -2243,6 +2279,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "37",
+    "artist": "danciao",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       477
@@ -2294,6 +2331,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "38",
+    "artist": "ryoma uratsuka",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       682
@@ -2344,6 +2382,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "39",
+    "artist": "Wintr Wandr",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       683
@@ -2402,6 +2441,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "40",
+    "artist": "MINAMINAMI Take",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       700
@@ -2471,6 +2511,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "41",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       700
@@ -2536,6 +2577,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "42",
+    "artist": "Ryota Murayama",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -2590,6 +2632,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "43",
+    "artist": "kodama",
     "rarity": "Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -2649,6 +2692,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "44",
+    "artist": "kodama",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       1015
@@ -2704,6 +2748,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "45",
+    "artist": "Kouki Saitou",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       1016
@@ -2762,6 +2807,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "46",
+    "artist": "GIDORA",
     "rarity": "Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -2810,6 +2856,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "47",
+    "artist": "Shimaris Yukichi",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       246
@@ -2873,6 +2920,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "48",
+    "artist": "Shigenori Negishi",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       247
@@ -2934,6 +2982,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "49",
+    "artist": "Uta",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       383
@@ -2984,6 +3033,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "50",
+    "artist": "Tika Matsuno",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       447
@@ -3048,6 +3098,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "51",
+    "artist": "PLANETA Tsuji",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       448
@@ -3103,6 +3154,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "52",
+    "artist": "HYOGONOSUKE",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       449
@@ -3168,6 +3220,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "53",
+    "artist": "Kurata So",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       450
@@ -3228,6 +3281,7 @@
     ],
     "convertedRetreatCost": 4,
     "number": "54",
+    "artist": "Souichirou Gunjima",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       901
@@ -3292,6 +3346,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "55",
+    "artist": "GIDORA",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -3352,6 +3407,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "56",
+    "artist": "PLANETA Mochizuki",
     "rarity": "Double Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -3405,6 +3461,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "57",
+    "artist": "Souichirou Gunjima",
     "rarity": "Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -3465,6 +3522,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "58",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       1017
@@ -3525,6 +3583,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "59",
+    "artist": "matazo",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       197
@@ -3593,6 +3652,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "60",
+    "artist": "takuyoa",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       197
@@ -3640,6 +3700,7 @@
       }
     ],
     "number": "61",
+    "artist": "Kurata So",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       215
@@ -3691,6 +3752,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "62",
+    "artist": "Mékayu",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       228
@@ -3751,6 +3813,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "63",
+    "artist": "kawayoo",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       229
@@ -3817,6 +3880,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "64",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       248
@@ -3880,6 +3944,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "65",
+    "artist": "hncl",
     "rarity": "Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -3935,6 +4000,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "66",
+    "artist": "Souichirou Gunjima",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       436
@@ -4000,6 +4066,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "67",
+    "artist": "Scav",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       437
@@ -4068,6 +4135,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "68",
+    "artist": "Tonji Matsuno",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       485
@@ -4134,6 +4202,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "69",
+    "artist": "Takeshi Nakamura",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       884
@@ -4199,6 +4268,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "70",
+    "artist": "Oswaldo KATO",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       1018
@@ -4254,6 +4324,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "71",
+    "artist": "Scav",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       885
@@ -4308,6 +4379,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "72",
+    "artist": "cochi8i",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       886
@@ -4367,6 +4439,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "73",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       887
@@ -4433,6 +4506,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "74",
+    "artist": "Naoyo Kimura",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       133
@@ -4506,6 +4580,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "75",
+    "artist": "aky CG Works",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       133
@@ -4575,6 +4650,7 @@
     ],
     "convertedRetreatCost": 4,
     "number": "76",
+    "artist": "N-DESIGN Inc.",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       143
@@ -4641,6 +4717,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "77",
+    "artist": "Nakamura Ippan",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       163
@@ -4704,6 +4781,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "78",
+    "artist": "matazo",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       164
@@ -4758,6 +4836,7 @@
       }
     ],
     "number": "79",
+    "artist": "Sanosuke Sakuma",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       206
@@ -4818,6 +4897,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "80",
+    "artist": "Teeziro",
     "rarity": "Rare",
     "nationalPokedexNumbers": [
       982
@@ -4877,6 +4957,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "81",
+    "artist": "Keisin",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       241
@@ -4938,6 +5019,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "82",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       249
@@ -4989,6 +5071,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "83",
+    "artist": "Naoki Saito",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       427
@@ -5039,6 +5122,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "84",
+    "artist": "Tika Matsuno",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       428
@@ -5100,6 +5184,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "85",
+    "artist": "Toshinao Aoki",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       479
@@ -5154,6 +5239,7 @@
     ],
     "convertedRetreatCost": 4,
     "number": "86",
+    "artist": "chibi",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       486
@@ -5209,6 +5295,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "87",
+    "artist": "Amelicart",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       492
@@ -5266,6 +5353,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "88",
+    "artist": "Keisin",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       676
@@ -5320,6 +5408,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "89",
+    "artist": "KEIICHIRO ITO",
     "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       701
@@ -5377,6 +5466,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "90",
+    "artist": "Masako Tomii",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       714
@@ -5447,6 +5537,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "91",
+    "artist": "PLANETA Igarashi",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       715
@@ -5512,6 +5603,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "92",
+    "artist": "5ban Graphics",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       1024
@@ -5539,6 +5631,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "93",
+    "artist": "Akira Komayama",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -5563,6 +5656,7 @@
       "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
     ],
     "number": "94",
+    "artist": "MARINA Chikazawa",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5587,6 +5681,7 @@
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
     ],
     "number": "95",
+    "artist": "5ban Graphics",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5611,6 +5706,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "96",
+    "artist": "GOSSAN",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -5635,6 +5731,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "97",
+    "artist": "GOSSAN",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -5659,6 +5756,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "98",
+    "artist": "GOSSAN",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -5683,6 +5781,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "99",
+    "artist": "GOSSAN",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -5707,6 +5806,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "100",
+    "artist": "Naoki Saito",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5731,6 +5831,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "101",
+    "artist": "AYUMI ODASHIMA",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5755,6 +5856,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "102",
+    "artist": "AYUMI ODASHIMA",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5779,6 +5881,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "103",
+    "artist": "kantaro",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5804,6 +5907,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "104",
+    "artist": "Taira Akitsu",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5828,6 +5932,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "105",
+    "artist": "GIDORA",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5853,6 +5958,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "106",
+    "artist": "AYUMI ODASHIMA",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5877,6 +5983,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "107",
+    "artist": "Hideki Ishikawa",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5901,6 +6008,7 @@
       "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
     ],
     "number": "108",
+    "artist": "MARINA Chikazawa",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5925,6 +6033,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "109",
+    "artist": "Cona Nitanda",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -5949,6 +6058,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "110",
+    "artist": "Toyste Beach",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -5973,6 +6083,7 @@
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
     ],
     "number": "111",
+    "artist": "Studio Bora Inc.",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -5997,6 +6108,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "112",
+    "artist": "Taira Akitsu",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -6021,6 +6133,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "113",
+    "artist": "GIDORA",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -6045,6 +6158,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "114",
+    "artist": "Sanosuke Sakuma",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -6069,6 +6183,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "115",
+    "artist": "hncl",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -6095,6 +6210,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "116",
+    "artist": "Toyste Beach",
     "rarity": "ACE SPEC Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6121,6 +6237,7 @@
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
     ],
     "number": "117",
+    "artist": "inose yukie",
     "rarity": "ACE SPEC Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6145,6 +6262,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "118",
+    "artist": "5ban Graphics",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -6171,6 +6289,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "119",
+    "artist": "Toyste Beach",
     "rarity": "ACE SPEC Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6196,6 +6315,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "120",
+    "artist": "Megumi Mizutani",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -6220,6 +6340,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "121",
+    "artist": "hncl",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -6243,6 +6364,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "122",
+    "artist": "Hideki Ishikawa",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -6266,6 +6388,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "123",
+    "artist": "Teeziro",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -6289,6 +6412,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "124",
+    "artist": "Teeziro",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -6312,6 +6436,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "125",
+    "artist": "Teeziro",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -6335,6 +6460,7 @@
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
     ],
     "number": "126",
+    "artist": "Toyste Beach",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -6359,6 +6485,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "127",
+    "artist": "Studio Bora Inc.",
     "rarity": "Common",
     "legalities": {
       "unlimited": "Legal",
@@ -6385,6 +6512,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "128",
+    "artist": "Toyste Beach",
     "rarity": "ACE SPEC Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6411,6 +6539,7 @@
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
     ],
     "number": "129",
+    "artist": "Toyste Beach",
     "rarity": "ACE SPEC Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6436,6 +6565,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "130",
+    "artist": "inose yukie",
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
@@ -6461,6 +6591,7 @@
       "You may play any number of Item cards during your turn."
     ],
     "number": "131",
+    "artist": "inose yukie",
     "rarity": "ACE SPEC Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6485,6 +6616,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "132",
+    "artist": "Akira Komayama",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6509,6 +6641,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "133",
+    "artist": "kantaro",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6532,6 +6665,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "134",
+    "artist": "GIDORA",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6555,6 +6689,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "135",
+    "artist": "GIDORA",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6578,6 +6713,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "136",
+    "artist": "Ryuta Fuse",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6602,6 +6738,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "137",
+    "artist": "Cona Nitanda",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6626,6 +6763,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "138",
+    "artist": "GOSSAN",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6649,6 +6787,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "139",
+    "artist": "hncl",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6673,6 +6812,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "140",
+    "artist": "Naoki Saito",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6696,6 +6836,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "141",
+    "artist": "Teeziro",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6719,6 +6860,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "142",
+    "artist": "hncl",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6743,6 +6885,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "143",
+    "artist": "Yuu Nishida",
     "rarity": "Ultra Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -6808,6 +6951,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "144",
+    "artist": "Jiro Sasumo",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       470
@@ -6871,6 +7015,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "145",
+    "artist": "Yukihiro Tada",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       1017
@@ -6939,6 +7084,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "146",
+    "artist": "Nurikabe",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       136
@@ -7006,6 +7152,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "147",
+    "artist": "akagi",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       937
@@ -7073,6 +7220,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "148",
+    "artist": "Yukihiro Tada",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       1017
@@ -7141,6 +7289,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "149",
+    "artist": "Narano",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       134
@@ -7208,6 +7357,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "150",
+    "artist": "Kamome Shirahama",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       471
@@ -7269,6 +7419,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "151",
+    "artist": "Tetsuo Hara",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       964
@@ -7334,6 +7485,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "152",
+    "artist": "Yukihiro Tada",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       1017
@@ -7397,6 +7549,7 @@
       }
     ],
     "number": "153",
+    "artist": "kantaro",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       135
@@ -7467,6 +7620,7 @@
     ],
     "convertedRetreatCost": 4,
     "number": "154",
+    "artist": "Kazumasa Yasukuni",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -7537,6 +7691,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "155",
+    "artist": "sui",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       196
@@ -7606,6 +7761,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "156",
+    "artist": "Cona Nitanda",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       700
@@ -7669,6 +7825,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "157",
+    "artist": "danciao",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -7734,6 +7891,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "158",
+    "artist": "OKUBO",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -7794,6 +7952,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "159",
+    "artist": "Tetsu Kayama",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -7853,6 +8012,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "160",
+    "artist": "Yukihiro Tada",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       1017
@@ -7922,6 +8082,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "161",
+    "artist": "YASHIRO Nanaco",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       197
@@ -7989,6 +8150,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "162",
+    "artist": "Shinji Kanda",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8045,6 +8207,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "163",
+    "artist": "osare",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       1025
@@ -8112,6 +8275,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "164",
+    "artist": "Shigenori Negishi",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       1000
@@ -8170,6 +8334,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "165",
+    "artist": "Jerky",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       887
@@ -8229,6 +8394,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "166",
+    "artist": "Uninori",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8299,6 +8465,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "167",
+    "artist": "tono",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       133
@@ -8364,6 +8531,7 @@
     ],
     "convertedRetreatCost": 3,
     "number": "168",
+    "artist": "Yano Keiji",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       901
@@ -8431,6 +8599,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "169",
+    "artist": "mashu",
     "rarity": "Special Illustration Rare",
     "nationalPokedexNumbers": [
       1024
@@ -8458,6 +8627,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "170",
+    "artist": "Tomowaka",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8482,6 +8652,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "171",
+    "artist": "Tomowaka",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8506,6 +8677,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "172",
+    "artist": "Tomowaka",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8530,6 +8702,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "173",
+    "artist": "Ligton",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8554,6 +8727,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "174",
+    "artist": "Iori Suzuki",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8578,6 +8752,7 @@
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "175",
+    "artist": "Tomowaka",
     "rarity": "Special Illustration Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8637,6 +8812,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "176",
+    "artist": "5ban Graphics",
     "rarity": "Hyper Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8697,6 +8873,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "177",
+    "artist": "5ban Graphics",
     "rarity": "Hyper Rare",
     "nationalPokedexNumbers": [
       1017
@@ -8759,6 +8936,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "178",
+    "artist": "takuyoa",
     "rarity": "Hyper Rare",
     "legalities": {
       "unlimited": "Legal",
@@ -8822,6 +9000,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "179",
+    "artist": "aky CG Works",
     "rarity": "Hyper Rare",
     "nationalPokedexNumbers": [
       25
@@ -8889,6 +9068,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "180",
+    "artist": "5ban Graphics",
     "rarity": "Hyper Rare",
     "nationalPokedexNumbers": [
       1024
