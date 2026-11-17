@@ -5402,7 +5402,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -5425,7 +5424,6 @@
     "artist": "5ban Graphics",
     "rarity": "Uncommon",
     "legalities": {
-      "standard": "Legal",
       "unlimited": "Legal",
       "expanded": "Legal"
     },

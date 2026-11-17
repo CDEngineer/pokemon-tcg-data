@@ -2113,7 +2113,6 @@
     "total": 305,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "PR-SW",
@@ -2400,7 +2399,6 @@
     "total": 186,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "BRS",
@@ -2419,7 +2417,6 @@
     "total": 30,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "BRS",
@@ -2438,7 +2435,6 @@
     "total": 216,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "ASR",
@@ -2457,7 +2453,6 @@
     "total": 30,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "ASR",
@@ -2476,7 +2471,6 @@
     "total": 88,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "PGO",
@@ -2512,7 +2506,6 @@
     "total": 217,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "LOR",
@@ -2531,7 +2524,6 @@
     "total": 30,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "LOR",
@@ -2550,7 +2542,6 @@
     "total": 215,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "SIT",
@@ -2569,7 +2560,6 @@
     "total": 30,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "SIT",
@@ -2588,7 +2578,6 @@
     "total": 160,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "CRZ",
@@ -2607,7 +2596,6 @@
     "total": 70,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "CRZ",
@@ -2664,7 +2652,6 @@
     "total": 258,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "SVI",
@@ -2683,7 +2670,6 @@
     "total": 279,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "PAL",
@@ -2702,7 +2688,6 @@
     "total": 230,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "OBF",
@@ -2738,7 +2723,6 @@
     "total": 207,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "MEW",
@@ -2757,7 +2741,6 @@
     "total": 266,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "PAR",
@@ -2776,7 +2759,6 @@
     "total": 245,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "PAF",
@@ -3136,7 +3118,6 @@
     "total": 30,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "30C",
