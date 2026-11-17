@@ -15,7 +15,7 @@ This fork of [PokemonTCG/pokemon-tcg-data](https://github.com/PokemonTCG/pokemon
   - Nidoran ♀ is spelled with a space, like the archive's other 15 Nidoran ♀ cards, so Nidorina's evolution still matches across sets.
 - The Delta Reign [merge commit](https://github.com/CDEngineer/pokemon-tcg-data/commit/7ff7795) shows each difference, and GitHub shows the [full comparison with the original](https://github.com/PokemonTCG/pokemon-tcg-data/compare/master...CDEngineer:pokemon-tcg-data:master).
 
-**Adopted from open pull requests to the original:** the original has not merged these community pull requests, so this fork applies them, each as one commit that keeps the contributor as author. Each was checked against card images or the archive first.
+**Adopted from pull requests to the original:** the original has not merged these community pull requests, open or closed, so this fork applies them, each as one commit that keeps the contributor as author. Each was checked against card images or the archive first.
 
 - [#612](https://github.com/PokemonTCG/pokemon-tcg-data/pull/612) Fix regulation mark of sv6-226 (evanchiu).
 - [#624](https://github.com/PokemonTCG/pokemon-tcg-data/pull/624) Fix me5-115 Mega Chandelure ex: add Stage 2 subtype and Mega Evolution ex rule (M-A-Zinc).
