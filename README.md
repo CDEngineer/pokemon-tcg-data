@@ -5,6 +5,9 @@ This fork of [PokemonTCG/pokemon-tcg-data](https://github.com/PokemonTCG/pokemon
 **Corrections in this fork that the original lacks:**
 
 - **Standard legality:** the Standard legality of Ascended Heroes and Perfect Order cards is corrected. The original still has the wrong values (the fix was offered upstream as pull request #623 and not merged).
+- **Standard rotations:** the 2025 and 2026 rotations are applied, which the original never did. Cards marked F, G or older no longer list Standard, unless a printing marked H or later reprints them (same name, and for Pokémon the same attacks) or they are basic Energy; 2,824 cards and 19 set entries changed.
+- **Illustrators:** every card in Surging Sparks, Prismatic Evolutions, Journey Together and Destined Rivals (`sv8`, `sv8pt5`, `sv9`, `sv10`) has its illustrator, read from the card images. The original has none for these sets.
+- **Card fixes:** Arceus LV.X (pl4-94, dpp-DP53) prints "LV.X" without a space; McDonald's 2012 Drilbur (mcd12-8) has its two attacks, which the original merges into one; Ethan's Pichu (sv10-71) and Team Rocket's Chingling (sv10-85) attacks cost one Colorless Energy, not nothing.
 - **Delta Reign (`me6`, DLR):** both repositories added the set separately. This fork merged the original's version and adopted the four fields it had right, then checked every remaining difference against the card images. Where the two differ, this fork matches the printed cards:
   - Adventure Lantern (me6-90, me6-126) is an Item; the original lists it as a Pokémon Tool.
   - Mega Rayquaza Cap (me6-100) is a plain Pokémon Tool; the original adds a MEGA subtype and the Mega Evolution ex rule, which the card doesn't print.
